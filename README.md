@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru Piyumantha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balckdevi10&label=Profile%20views&color=0e75b6&style=flat" alt="balckdevi10" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=balckdevi10&label=Profile%20views&color=0e75b6&style=flat" alt="balckdevi10" /> </p>
 
 - 🔭 I’m currently working on **Past Papers Study App**
 
